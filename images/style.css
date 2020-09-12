@@ -368,7 +368,7 @@ input.button {
 	background: url(dots.jpg) repeat-x left bottom;
 	padding: 4px 0 4px 5px;
 	margin: 0 2px;	
-	color: #68774A;	
+	color: rgb(247, 23, 228);	
 }
 * html body #sidebar ul.sidemenu li {
 	height: 1%;
