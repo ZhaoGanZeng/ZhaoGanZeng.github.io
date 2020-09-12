@@ -15,9 +15,10 @@
 * { margin: 0; padding: 0; outline: 0 }
 
 body {
-	background: rgb(55, 83, 2);
+	background: rgb(175, 212, 212);
 	font: 70%/1.5em Verdana, Tahoma, arial, sans-serif;
-	color: rgb(231, 29, 29); 
+	/* 内容字体 */
+	color: rgb(29, 35, 59);  
 	text-align: center;
 }
 
@@ -27,8 +28,9 @@ a, a:visited {
 	color: #2180BC;
 	background: inherit;
 }
+/* 鼠标悬停在链接上 */
 a:hover {
-	color: #88ac0b;
+	color: #67d845;
 	background: inherit;
 	text-decoration: underline;
 }
@@ -45,7 +47,7 @@ h1 {
 h2 {
 	font-size: 140%;
 	text-transform: uppercase;
-	color: #88ac0b;
+	color: #77dbe9;
 }
 h3 {
 	font-size: 120%;
@@ -101,7 +103,7 @@ acronym {
 blockquote {
 	margin: 10px;
  	padding: 0 0 0 28px;  
-   border: 1px solid #f2f2f2; 
+   	border: 1px solid #f2f2f2; 
   	background: #FAFAFA url(quote.gif) no-repeat 5px 5px;    
 }
 
