@@ -27,13 +27,17 @@ a, a:visited {
 	text-decoration: none;
 	color: #2180BC;
 	background: inherit;
+	
 }
+
+
 /* 鼠标悬停在链接上 */
 a:hover {
 	color: #67d845;
 	background: inherit;
 	text-decoration: underline;
 }
+
 
 /* headers */
 h1, h2, h3 {
